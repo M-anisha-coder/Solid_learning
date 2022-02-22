@@ -5,7 +5,7 @@
  The repository  is having all the code used for in project on 3 days workshop
  <h2>About the repository </h2>
  Repository having index.html ,style.css and images.
- <h2>files</h2>
+ <bold>Note: use name of images like "im1,im2"</bold>
  <h2>who i am?</h2>
 <p>I am manisha 3rd year electronic and communication engineering student from Bharati Vidyapeeth college of engineering new Delhi.I am a data science and web development enthusiasm.</p>
 <p>I am solution orientation person who believe that there not a single question exist which do not have answer.in simple means first answer comes in existence then questions come.</p>
